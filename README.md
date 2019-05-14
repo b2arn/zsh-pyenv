@@ -37,7 +37,7 @@ zget load mattberther/zsh-pyenv
 Clone `zsh-pyenv` into your custom plugins repo and load as a plugin in your `.zshrc`
 
 ```shell
-git clone https://github.com/mattberther/zsh-pyenv ~/.oh-my-zsh/custom/plugins/zsh-pyenv
+git clone git clone https://github.com/b2arn/zsh-pyenv ~/.oh-my-zsh/custom/plugins/zsh-pyenv
 ```
 
 ```
