@@ -9,6 +9,7 @@ _zsh_pyenv_install() {
     git clone "${GITHUB}/pyenv/pyenv-installer.git"  "${PYENV_HOME}/plugins/pyenv-installer"
     git clone "${GITHUB}/pyenv/pyenv-update.git"     "${PYENV_HOME}/plugins/pyenv-update"
     git clone "${GITHUB}/pyenv/pyenv-virtualenv.git" "${PYENV_HOME}/plugins/pyenv-virtualenv"
+    git clone "${GITHUB}/pyenv/pyenv-virtualenvwrapper.git" "${PYENV_HOME}/plugins/pyenv-virtualenvwrapper"
     git clone "${GITHUB}/pyenv/pyenv-which-ext.git"  "${PYENV_HOME}/plugins/pyenv-which-ext"
 }
 
